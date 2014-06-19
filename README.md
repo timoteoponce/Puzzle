@@ -1,5 +1,5 @@
-Juego Puzzle sencillo
-=====================
+Puzzle
+======
 
 Juego Puzzle distribuido usando una arquitectura cliente
 servidor, soportando partidas entre dos jugadores.
